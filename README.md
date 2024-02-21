@@ -16,7 +16,7 @@ Bounce Game is a simple and addictive game where you control a paddle to bounce 
 
 ## Demo
 
-![Bounce Game Demo Gif](insert_demo_gif_url_here)
+https://gorav22.github.io/Bounce-Game/
 
 ## Getting Started
 
