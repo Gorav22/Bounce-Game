@@ -1,6 +1,6 @@
 # Bounce Game
 
-![Bounce Game Screenshot](insert_screenshot_url_here)
+https://github.com/Gorav22/Bounce-Game/blob/main/assets/bg/bg.jpg?raw=true
 
 ## Overview
 
